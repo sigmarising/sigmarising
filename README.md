@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🐋 About Me
 
-<!--
-**sigmarising/sigmarising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*A Developer knows a little about Full-Stack/AI Development.*
 
-Here are some ideas to get you started:
+```json
+{
+  "🙋‍♂️ Name": "YUN Zhang",
+  "🎂 Birth": "Sept. 1996",
+  "🎓️ Master": "Computer Technology @ BUPT",
+  "📖 Bachelor": "Computer Science and Technology @ BUPT",
+  "🛠 Techs": ["JS", "TS", "Vue", "React", "Python", "Java", "C#", "C/C++"],
+  "🏕️ Hobbies": ["Hiking", "Mountaineering", "Animation", "Comics", "Games"],
+  "🦜 Langs": ["Mandarin Chinese", "English"]
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Personal Blog** ➡️ *https://sigmarising.github.io/*
+
+> ***Just KEEP On and KEEPING On!***
