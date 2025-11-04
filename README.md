@@ -1,4 +1,4 @@
-## 🐋 About Me
+## 🐳 About Me
 
 *A Developer knows a little about Full-Stack/AI Development.*
 
@@ -16,4 +16,4 @@
 
 **Personal Blog** ➡️ *https://sigmarising.github.io/*
 
-> ***Just KEEP On and KEEPING On!***
+> ***Just KEEP On KEEPING On!***
