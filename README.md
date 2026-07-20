@@ -7,7 +7,7 @@
   "🙋‍♂️ Name": "YUN Zhang",
   "🎂 Birth": "Sept. 1996",
   "💻 Primary": "AI Agent Strategy R&D @ Kanyun",
-  "⛰️ Side": "Outdoor Leader @ China Mountaineering Association Junior Instructor",
+  "⛰️ Side": "Mountain Outdoor Instructor @ Chinese Mountaineering Association Intermediate Instructor",
   "🎓️ Master": "Computer Technology @ BUPT",
   "📖 Bachelor": "Computer Science and Technology @ BUPT",
   "🛠 Techs": ["JS", "TS", "Vue", "React", "Python", "Java", "C#", "C/C++"],
@@ -18,4 +18,4 @@
 
 **Personal Blog** ➡️ *https://sigmarising.github.io/*
 
-> ***KEEP On KEEPING On!***
+> ***Don't Be So Serious.***
